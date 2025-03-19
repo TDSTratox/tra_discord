@@ -5,7 +5,7 @@ SetDiscordAppId("TON_CLIENT_ID")
 
 -- 📌 Image principale (ajoute-la dans le Discord Developer Portal > Rich Presence > Art Assets)
 SetDiscordRichPresenceAsset("logo") 
-SetDiscordRichPresenceAssetText("Octania Roleplay")
+SetDiscordRichPresenceAssetText("Mon Serveur FiveM")
 
 -- Fonction pour mettre à jour la présence Discord
 local function UpdateRichPresence()
