@@ -1,7 +1,7 @@
 ESX = exports["es_extended"]:getSharedObject()
 
 -- 📌 Remplace "TON_CLIENT_ID" par l'ID de ton application Discord
-SetDiscordAppId("1063212692732645406")
+SetDiscordAppId("TON_CLIENT_ID")
 
 -- 📌 Image principale (ajoute-la dans le Discord Developer Portal > Rich Presence > Art Assets)
 SetDiscordRichPresenceAsset("logo") 
